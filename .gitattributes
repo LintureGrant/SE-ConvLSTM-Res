@@ -2,3 +2,4 @@
 * text=auto
 data filter=lfs diff=lfs merge=lfs -text
 data/timeSpace_dataset.txt filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
